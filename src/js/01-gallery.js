@@ -20,4 +20,4 @@ ulGalary.insertAdjacentHTML('beforeend', cardsImg);
 
 // ------------------------------------------------------------
 
-const lightbox = new SimpleLightbox('.gallery a', {captionsData: 'alt', captionDelay: 250});git remote set-url origin 
+const lightbox = new SimpleLightbox('.gallery a', {captionsData: 'alt', captionDelay: 250});
