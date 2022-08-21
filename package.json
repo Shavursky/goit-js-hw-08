@@ -31,6 +31,5 @@
     "posthtml-include": "^1.7.4",
     "webpack": "^5.74.0"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "src/index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
